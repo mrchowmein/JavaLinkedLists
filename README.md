@@ -1,2 +1,2 @@
 # JavaLinkedList
-My implementation of a Java Singly and Doubly LinkedLists with reverse, traverse and insert methods.
+My implementation of Java Singly and Doubly LinkedLists with generics, reverse, traverse and insert methods.
