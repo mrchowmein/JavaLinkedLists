@@ -1,3 +1,8 @@
+/*
+Copyright 2018
+github.com/mrchowmein
+*/
+
 public class DoublyLinkedList<E>{
 
 	private class Node {
